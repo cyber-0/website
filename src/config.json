@@ -1,0 +1,108 @@
+{
+    "references": [
+        "/references/craftlime.png",
+        "/references/taklacraft.png",
+        "/references/ramicraft.png",
+        "/references/tropicamc.png",
+        "/references/riseforever.png",
+        "/references/demiriumtowny.png",
+        "/references/yuufy.png",
+        "/references/otreranet.png"
+    ],
+    "faq": [
+        {
+            "question": "What is iumProject, and what kind of services do you offer?",
+            "answer": "iumProject is a sales team that provides creative content to the minecraft world. We produce high-quality setups, configs, web solutions, and other custom content to enhance in-game experiences."
+        },
+        {
+            "question": "How can I place an order?",
+            "answer": "To place an order, please contact us via Discord. You can submit your project ideas and requests, and we will get back to you as soon as possible."
+        },
+        {
+            "question": "Which gaming platforms do your content adapt to?",
+            "answer": "Our content is typically tailored to popular gaming platforms like BuiltByBit, PolyMart and SpigotMc. However, if you have specific requirements, we can discuss creating content for other platforms as well."
+        },
+        {
+            "question": "Do you work on custom projects or requests?",
+            "answer": "Yes, we are open to custom projects and requests. We are happy to create content tailored to your specific needs. Please feel free to contact us for more information via Discord."
+        }
+    ],
+    "team": [
+        {
+            "avatar": "/team/demirium.png",
+            "name": "Demir",
+            "nickname": "demirium",
+            "role": "Founder & Developer",
+            "discord": "533903536036249601",
+            "linkedin": "https://www.linkedin.com/in/tolga-demir-demirci-6814a728a",
+            "instagram": "https://www.instagram.com/demirium_/",
+            "website": "https://demirium.com"
+        },
+        {
+            "avatar": "/team/iamnullman.png",
+            "name": "Recep",
+            "nickname": "iamnullman",
+            "role": "Developer",
+            "discord": "716930725877907466",
+            "linkedin": "https://linkedin.com/in/iamnullman",
+            "instagram": "https://instagram.com/iamnullman",
+            "website": "https://nullman.dev"
+        },
+        {
+            "avatar": "/team/imeteorito.png",
+            "name": "Bora",
+            "nickname": "imeteorito",
+            "role": "Developer",
+            "discord": "698110367892635728",
+            "linkedin": "",
+            "instagram": "",
+            "website": ""
+        },
+        {
+            "name": "Hakan",
+            "nickname": "Eldrit",
+            "role": "Developer",
+            "discord": "492307418571604007",
+            "linkedin": "",
+            "instagram": "",
+            "website": ""
+        },
+        {
+            "name": "Mustafa",
+            "nickname": "Raginest",
+            "role": "General Manager",
+            "discord": "",
+            "linkedin": "",
+            "instagram": "",
+            "website": ""
+        },
+        {
+            "name": "Can",
+            "nickname": "iamnotiron",
+            "role": "Team",
+            "discord": "",
+            "linkedin": "",
+            "instagram": "",
+            "website": ""
+        },
+        {
+            "name": "Sarp",
+            "nickname": "1Sarpy",
+            "role": "Team",
+            "discord": "",
+            "linkedin": "",
+            "instagram": "",
+            "website": ""
+        }
+    ],
+    "products": [
+        {
+            "image": "/products/lobby_setup.png",
+            "name": "Loby Setup",
+            "type": "Minecraft",
+            "description": "A lobby setup is a place where players can gather before entering the game. It is the first place players see when they join the server. A lobby setup is a great way to make a good first impression on your players. It is also a great way to showcase your server's features and attract new players.",
+            "bbb": "https://builtbybros.com/product/lobby-setup/",
+            "pm": ""
+        }
+    ]
+}
