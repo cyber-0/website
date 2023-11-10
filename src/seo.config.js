@@ -3,7 +3,7 @@ module.exports = {
     description: "IumProject was established in 2023 and began its operations in the same year. Our mission is to deliver exceptional services to our customers, leveraging our extensive and skilled workforce.",
     canonical: "https://iumproject.com",
     defaultTitle: 'iumProject',
-    titleTemplate: '%s – Beyond the limits',
+    titleTemplate: '%s – Beyond Blocks, Beyond Limits!',
     openGraph: {
         type: "website",
         locale: "en_US",
@@ -14,7 +14,7 @@ module.exports = {
         siteName: "iumProject",
         images: [
             {
-                url: "https://iumproject.com/banner.png",
+                url: "https://iumproject.com/logo.png",
                 width: 800,
                 height: 600,
                 alt: "iumProject",
