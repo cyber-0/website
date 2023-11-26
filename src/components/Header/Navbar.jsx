@@ -5,7 +5,7 @@ export default function Navbar() {
     <div className="fixed navbar backdrop-blur-sm	 shadow-lg w-full z-10 top-0">
       <div className="navbar-start">
         <Link className="btn btn-ghost normal-case text-xl" href="/">
-          <img src="https://cdn.discordapp.com/attachments/1175794130199257129/1178382483293753495/dijibanner.png?ex=6575f135&is=65637c35&hm=ae41b07a838630b310fe297df9c28ad149a4e355edf466f2106bf876199415ec&" className="w-36" alt="dijicorebanner" loading="lazy" />
+          <img src="https://cdn.discordapp.com/attachments/1175794130199257129/1178383881267839098/dijibn.png?ex=6575f282&is=65637d82&hm=c97e5d6975c53bbb5ed54be9189d568d32d3bb7746897176fb275f8ece7fabcf&" className="w-36" alt="dijicorebanner" loading="lazy" />
         </Link>
       </div>
       <div className="navbar-end px-8">
