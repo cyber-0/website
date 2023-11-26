@@ -1,17 +1,17 @@
 module.exports = {
-    title: "iumProject",
-    description: "IumProject was established in 2023 and began its operations in the same year. Our mission is to deliver exceptional services to our customers, leveraging our extensive and skilled workforce.",
+    title: "dijicore",
+    description: "dijicore 2023 yılında kurulmuş ve aynı yıl faaliyetlerine başlamıştır. Misyonumuz, kapsamlı ve yetenekli iş gücümüzden yararlanarak müşterilerimize olağanüstü hizmetler sunmaktır.",
     canonical: "https://iumproject.com",
-    defaultTitle: 'iumProject',
-    titleTemplate: '%s – Beyond Blocks, Beyond Limits!',
+    defaultTitle: 'dijicore',
+    titleTemplate: '%s – Sınırların Ötesinde!',
     openGraph: {
         type: "website",
         locale: "en_US",
-        title: "iumProject",
-        description: "IumProject was established in 2023 and began its operations in the same year. Our mission is to deliver exceptional services to our customers, leveraging our extensive and skilled workforce.",
+        title: "dijicore",
+        description: "dijicore 2023 yılında kurulmuş ve aynı yıl faaliyetlerine başlamıştır. Misyonumuz, kapsamlı ve yetenekli iş gücümüzden yararlanarak müşterilerimize olağanüstü hizmetler sunmaktır..",
         url: "https://iumproject.com",
         type: "website",
-        siteName: "iumProject",
+        siteName: "dijicore",
         images: [
             {
                 url: "https://iumproject.com/logo.png",
