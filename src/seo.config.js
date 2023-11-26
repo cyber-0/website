@@ -14,10 +14,10 @@ module.exports = {
         siteName: "dijicore",
         images: [
             {
-                url: "https://iumproject.com/logo.png",
+                url: "https://cdn.discordapp.com/attachments/1083840135055032330/1178376131498475640/wE9SyGQXkbQ4wAAAABJRU5ErkJggg.png?ex=6575eb4a&is=6563764a&hm=de77f90c9f2cf1c1df068ec009a99b586d62406f740295ba3d1b96d3c5a8aaca&",
                 width: 800,
                 height: 600,
-                alt: "iumProject",
+                alt: "dijicore",
             },
         ],
     },
