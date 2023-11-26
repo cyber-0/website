@@ -6,7 +6,7 @@ export default function Footer() {
             <div className="container mx-auto">
                 <footer className="footer p-10  text-base-content">
                     <aside>
-                        <img src="https://cdn.discordapp.com/attachments/1175794130199257129/1178383881267839098/dijibn.png?ex=6575f282&is=65637d82&hm=c97e5d6975c53bbb5ed54be9189d568d32d3bb7746897176fb275f8ece7fabcf&" className="w-48" alt="logo" />
+                        <img src="https://cdn.discordapp.com/attachments/1083840135055032330/1178378886451560549/dijicoresembol.png?ex=6575eddb&is=656378db&hm=772a5d3ba65485529d1369f4287f0f09469461d30a1f27836df6c9d85fc701b2&" className="w-48" alt="logo" />
 
                         <div className="grid grid-flow-col gap-4 place-content-center">
                             <a href="https://bbb.dijicore.com/" target="_blank" rel="noreferrer" className="btn btn-ghost btn-sm btn-square">
