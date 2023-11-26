@@ -2,18 +2,18 @@ import { UserGroupIcon, ArrowLeftOnRectangleIcon, TicketIcon } from '@heroicons/
 
 const features = [
   {
-    name: 'User & Server Friendly',
-    description: "All our services are user and server friendly! They are carefully prepared and tested before they are served to you.",
+    name: 'Kullanıcı Dostu',
+    description: "Tüm hizmetlerimiz kullanıcı ve sunucu dostudur! Size sunulmadan önce özenle hazırlanır ve test edilirler.",
     icon: UserGroupIcon
   },
   {
-    name: 'High Performance',
-    description: "All our services run at high performance. It doesn't cause any lag or delay on your server.",
+    name: 'Yüksek Performans',
+    description: "Tüm hizmetlerimizi yüksek performansta yaparız size ve müşterilere sunarız.",
     icon: ArrowLeftOnRectangleIcon
   },
   {
-    name: "Fast Support",
-    description: "We guarantee support for all our services. We are with you with our service team.",
+    name: "Hızlı Destet",
+    description: "Tüm hizmetlerimiz için destek garantisi veriyoruz. Servis ekibimiz ile yanınızdayız.",
     icon: TicketIcon
   },
 ]
@@ -24,9 +24,9 @@ export default function Features() {
       <div className="container mx-auto px-4">
         <div className="flex md:flex-row flex-col items-center">
           <div className="md:w-1/2 w-full">
-            <h2 className="font-semibold leading-7 text-3xl text-primary" data-aos="fade-right">What is &quot;iumProject&quot;?</h2>
+            <h2 className="font-semibold leading-7 text-3xl text-primary" data-aos="fade-right">Nedir bu &quot;dijicore&quot;?</h2>
             <p className='text-base mt-4' data-aos="fade-right">
-              iumProject is a sales team with a passion and expertise in content creation, always striving for the best. Founded in summer 2023, this team aims to deliver creative content in the gaming world. We produce high quality setups, plugin configurations, web services to enrich players&quot; experiences and add fun new features. As a team, we understand the complexity of the gaming world and successfully complete their projects with a focus on customer satisfaction.
+            Dijicore, içerik oluşturma konusunda tutku ve uzmanlığa sahip, her zaman en iyisi için çabalayan bir pazarlama ekibidir. 2023 yazında kurulan bu ekip, sosyal medya dünyasında yaratıcı içerikler sunmayı amaçlamaktadır. Ekip olarak, sosyal medya dünyasının karmaşıklığını anlıyor ve müşteri memnuniyetine odaklanarak projelerini başarıyla tamamlıyoruz.
             </p>
           </div>
 
